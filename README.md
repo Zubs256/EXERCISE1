@@ -4,9 +4,7 @@
 
 </head>
 <body>
-<div style="background-color:white;
-color:black;"
->
+
   
 <h4>WITI WEB DEVELOPMENT(HTML) TEST 6/10/2023#</h4>
 <h4>NAME..........................................</h4>
