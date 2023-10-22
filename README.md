@@ -1,12 +1,7 @@
 <!DOCTYPE>
 <html>
 <head>
-<title>
-<style>
 
-    
-</style>
-</title>
 </head>
 <body>
 <div style="background-color:white;
