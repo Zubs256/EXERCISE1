@@ -3,23 +3,7 @@
 <head>
 <title>
 <style>
-  .test{
-    background-color:white;
-    color:black;
-  }
- .heading{
-  padding=10px;
-  margin-bottom=10 px;
-}
- p{
-  border: 1p solid;
-  margin-bottom:5px;
-  text-align:justify;
-  line-height:5px;
-}
-.body{
-  margin: 0;
-}
+
     
 </style>
 </title>
