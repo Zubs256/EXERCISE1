@@ -13,7 +13,7 @@
 
 <p>1.Which of these elements can be used for making a text bold?</p>
 
-<p>a. &lt;a
+<p>a. &lt;a&gt;</p>
 <p>b. &lt;prep&gt;</p> 
 <p>c. &lt;br&gt;</p>
 <p>d. &lt;b&gt;</p>
