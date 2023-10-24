@@ -1,0 +1,15 @@
+.img1,.img2{
+  width: 250px;
+  padding-bottom: 0px;
+  height: 300px;
+}
+
+.img2{
+  height: 300px;
+
+}
+.grid{
+  display: grid;
+  grid-template-columns: 300px 300px;
+  column-gap: 5px;
+}
